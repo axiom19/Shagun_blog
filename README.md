@@ -1,4 +1,4 @@
-#BLOG WEB-APPLICATION
+# BLOG WEB-APPLICATION
 
 This code is a Flask web application for a blog website with user authentication, blog post creation and commenting functionalities. The application uses Flask, Bootstrap, CKEditor, SQLAlchemy, Flask-Login and Flask-Gravatar. 
 
